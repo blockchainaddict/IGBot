@@ -6,3 +6,5 @@ It prints every time an image is liked, and the message "Done with '#certainhast
 Also, it writes how many times you run it on a file. If you run it too many times or without waiting at least 20/30 minutes your account might get banned.
 
 The fair use of this script is to avoid wasting time with the mechanical, repetitive and yet necessary task of liking other accounts in order to get noticed and grow yours. Any explotation or excessive use is discouraged.
+
+You'll need Selenium webdriver & Chromedriver.
